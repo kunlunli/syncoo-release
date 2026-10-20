@@ -1,0 +1,4 @@
+{
+	"payload": "{\n\t\"schemaVersion\": 1,\n\t\"latest\": {\n\t\t\"version\": \"1.2.0\",\n\t\t\"notesUrl\": \"https://github.com/kunlunli/syncoo-release/releases/tag/v1.2.0\",\n\t\t\"rolloutPercent\": 20,\n\t\t\"assets\": {\n\t\t\t\"darwin-arm64\": {\n\t\t\t\t\"url\": \"https://github.com/kunlunli/syncoo-release/releases/download/v1.2.0/Syncoo-darwin-arm64.zip\",\n\t\t\t\t\"sha256\": \"df935ff81df203c977c65be91f61c75728073d8e3ed663ff52fdc83d5bf0a379\"\n\t\t\t},\n\t\t\t\"win32-x64-user\": {\n\t\t\t\t\"url\": \"https://github.com/kunlunli/syncoo-release/releases/download/v1.2.0/Syncoo-win32-x64-setup.exe\",\n\t\t\t\t\"sha256\": \"2cdebfe9a6c4260ef83c99f71daffb9fc599e794eeffb93b23207c1e96ea365f\"\n\t\t\t}\n\t\t}\n\t},\n\t\"issuedAt\": \"2026-10-20T23:30:33.046Z\"\n}",
+	"signature": "0pdl3goZEu/s2yUqPww/q+q8Dtey7KsbVvLBbGaQ2iUgB5GGioChGzk8WwRS5sqiJEsp+DbibeVCix+ZYMmwAw=="
+}
